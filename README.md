@@ -9,4 +9,5 @@ https://docs.google.com/spreadsheets/d/1mmoJCV3MY3nV1Bm5WZDssWy71g0MaVlpeHIP-9WB
 
 Ссылка на rutube канал, куда будут выкладываться видео с лекций 
 
-https://rutube.ru/channel/70081480/videos/
+https://rutube.ru/channel/70081480
+
